@@ -1,0 +1,28 @@
+PODS:
+  - NCMB (3.1.0)
+  - PKHUD (5.3.0)
+
+DEPENDENCIES:
+  - NCMB (from `https://github.com/NIFCLOUD-mbaas/ncmb_ios.git`)
+  - PKHUD (~> 5.0)
+
+SPEC REPOS:
+  trunk:
+    - PKHUD
+
+EXTERNAL SOURCES:
+  NCMB:
+    :git: https://github.com/NIFCLOUD-mbaas/ncmb_ios.git
+
+CHECKOUT OPTIONS:
+  NCMB:
+    :commit: 06072ba57e6ef461cafd20feaa798be0eef0cf8b
+    :git: https://github.com/NIFCLOUD-mbaas/ncmb_ios.git
+
+SPEC CHECKSUMS:
+  NCMB: c308972109137bf523ec1830bac16de6a31c25f4
+  PKHUD: 98f3e4bc904b9c916f1c5bb6d765365b5357291b
+
+PODFILE CHECKSUM: 06bd391d0deb18bf46869590a05c65afa9ca0688
+
+COCOAPODS: 1.9.3
